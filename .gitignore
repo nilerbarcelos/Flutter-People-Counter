@@ -9,5 +9,5 @@ ios/.generated/
 packages
 .flutter-plugins
 key.properties
-.dart_tool
-.gradle
+.dart_tool/
+.gradle/
